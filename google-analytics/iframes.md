@@ -1,4 +1,4 @@
-#Acompanhamento de iFrames de outros domínios usando linker
+#Acompanhamento de iFrames com linker
 
 ##Código de acompanhamento
 
@@ -108,7 +108,7 @@ O `iframe` deve ser inserido dinâmicamente na página, para que isso seja feito
 <div id="myiFrame"></div>
 ``` 
 
-Crie a função `addiFrame`, conforme o código abaixo, esta função recebe o `ÌD` do `div` onde o iframe deve ser criado e url que se tornara o `src` do `iframe`.
+Crie a função `addiFrame`, conforme o código abaixo, esta função recebe o `I	D` do `div` onde o iframe deve ser criado e url que se tornara o `src` do `iframe`.
 
 ``` html
 <script type="text/javascript">
