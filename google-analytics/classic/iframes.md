@@ -95,7 +95,7 @@ O usuário é informado do bloqueio com um ícone na barra de status do navegado
 
 <img src="../../images/p3p_cookie_bloqueado.jpg" alt="P3P ícone de cookies bloqueados"/>
 
-#Como definir o cabeçalho P3P
+##Como definir o cabeçalho P3P
 
 O cabeçalho P3P é uma definição feita do lado do servidor, abaixo exemplos de algumas formas para adicionar o P3P a sua aplicação, de acordo com a linguagem ou servidor.
 
