@@ -21,7 +21,7 @@ O pageview padrão utilizará a URL path a partir do domínio, com parâmetros d
 </script>
 ```
 
-##Pageview Virtual - cenário 1
+##Pageview Virtual - Cenário 1
 
 Para enviar ao Google Analytics uma URL customizada, sobrescrevendo a URL padrão, ou então monitorar interações na página como pageviews, deve-se utilizar o método abaixo, chamado de pageview virtual.
 
