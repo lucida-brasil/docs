@@ -69,8 +69,9 @@ Nome Antigo | Substituido Indiretamente Por
 ga:ROI | ga:ROAS
 ga:margin | 
  
-A Métrica ga:ROAS que deverá ser utilizada e é definida através do cálculo
-Inline image 1
+A Métrica ga:ROAS que deverá ser utilizada e é definida através do cálculo:
+ga:ROAS = (Ecommerce_Revenue + Goal_Value)/(AdWords_Cost + Media_Cost)
+
 Lembrando que uma visita pode realizar mais do que uma transação mas no máximo uma conversão por meta e que os dados de Mídia precisam ser inseridos através do processo descrito [neste link] (https://developers.google.com/analytics/devguides/platform/cost-data-import).
 
 # 4. Segmentações Avançadas
